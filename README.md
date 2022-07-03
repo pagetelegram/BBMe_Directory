@@ -17,5 +17,5 @@ Currently maintained for OS/X, Windows, Android and iOS.
       - Description
       - Link
     
-  - Here is a list of private active groups by owners and mods pin numbers:
-  - Here is a list of public groups that are no longer active or orphaned by their owners/mods.
+  - Here is a list of private active groups by owners and mods with their pin numbers:
+  - Here is a list of public groups that are no longer active or have been orphaned by their owners:
