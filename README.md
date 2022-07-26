@@ -10,18 +10,15 @@ Currently maintained for OS/X, Windows, Android and iOS.
 * Public groups are accessible by link or by scanning the group's QR code.
 * Groups are for sharing content including media within their niche subjects.
   - Here is a list of currently active public groups by link:
-    - Good Food, Muuic and Life
-      - Admin by Stephanie and Steven
-      - Pins: EF064AF4 and EF05C2BC Respectively
+    - Good Food, Music and Life
+      - Admin by Stephanie (EF064AF4); Steven (EF05C2BC)
     - Show Me Your City
       - Share Photos and Your Experiences in Your City
-      - Admin by Tom and Arletta
-      - Pins: EF051EFD and EF07D1A0 Respectively
+      - Admin by Tom (EF051EFD); Arletta (EF07D1A0) 
      - Current Events
-       - Admin By Anilu7 and Faisal
-       - Pins: EF058839 and EF016210 Respectively
+       - Admin By Anilu7 (EF058839); Faisal (EF016210)
      - TechOdyssey Community
-       - Popular reiewer of tech and phones, formally of BackBerry devices
+       - Popular reviewer of tech and phones, formally of BackBerry devices
        - Link: https://www.bbmenterprise.com/chat/dd9de61ec2e2d01dab6bd9061110783501385c77.3
      - Science
        - Science and research community for learning and support
@@ -29,11 +26,21 @@ Currently maintained for OS/X, Windows, Android and iOS.
      - Politics, Anyone?
        - Link: https://www.bbmenterprise.com/chat/03535257a21f6aa5b91c81a3fcf4d0a9e90e9961.2
      - Aid to Faith
-       - Christian support and encouragement
+       - Faith based support and encouragement from the Bible
        - Admin: Scot (EF0400E)
-     - All Things Tech (Open Forum
-       - Technology discussion and hacks, old and new
+     - All Things Tech (Open Forum)
+       - Technology discussion and hacks, old and new.
        - Link: https://www.bbmenterprise.com/chat/3f5eab671ded6931fcc6f99edf6975157f773510.2
-    
-  - Here is a list of private active groups by owners and mods with their pin numbers:
+     - Anything Goofy (except politics and religion)
+       - Admin: Anilu7 (EF058839)
+     - BlackBerry World
+       - Discuss anything related to BlackBerry and Devices
+       - Admin: Adrian (EF0152FC); Dave Matthews (EF005702); Clark_Elite (EF07D1BE); AGEs (EF07354F)
+     - Anything Outdoors
+       - Admin: John Batchelor (EF0512A4); 
+     - Founders of BlackBerry Chat
+       - Group for expressing loyalty to BlackBerry by offering grassroot type support
+       - Admin: Rako8 (EF01DE45); Jason (EF070F22)
+       
   - Here is a list of public groups that are no longer active or have been orphaned by their owners:
+  coming soon...
